@@ -46,6 +46,7 @@ nav{
 .navbar-1{
     background-color: var(--clr-primary-bg);
     height: 50px;
+    font-size: 0.9rem;
 }
 .navbar-2{
     color: var(--clr-dark);
@@ -86,6 +87,7 @@ nav{
 }
 .nav-link{
     border: 0px;
+    font-size: 0.9rem;
 }
 
 .navbar-links .last-child{
